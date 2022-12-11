@@ -1,7 +1,6 @@
 import datetime
 import json
 
-PATH = "tasks.json"
 
 
 def save_json(path, task):
